@@ -13,6 +13,6 @@ The UserRegistration Module includes the following functionality:
 5. If authentication failes, return to login page.
 6. Sign up page with a form to enter first name, last name, user name and password.
 7. Validation of the fields in the Registration form.
-8. Upon successful sign-in redirect to freecharge home page.
+8. Upon successful sign-up redirect to freecharge home page.
 
-The database has been in exported to user_freecharge.sql
+The database has been exported to user_freecharge.sql
